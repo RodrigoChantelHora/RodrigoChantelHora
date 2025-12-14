@@ -15,7 +15,7 @@
   <img align="center" alt="Rodrigo-Laravel" width="30" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg">
   <img align="center" alt="Rodrigo-VueJs" height="30" width="30" src="https://github.com/user-attachments/assets/06caf975-5db1-4c05-ae41-e170aae20c8a">
   <img align="center" alt="Rodrigo-Bootstrap" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Rodrigo-Tailwind" height="35" width="40" src="https://github.com/user-attachments/assets/b8af53d3-0c99-4b70-a17d-0047328fb635">
+  <img align="center" alt="Rodrigo-Tailwind" height="35" width="40" src="https://th.bing.com/th/id/ODF.QrPtMU6HdIU8yBwruNkEbA?w=32&h=32&qlt=90&pcl=fffffc&o=6&cb=ucfimg1&pid=1.2&ucfimg=1">
 
  
   <img align="right" alt="Rodrigo-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/lcBy6r3.png">
