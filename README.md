@@ -22,7 +22,7 @@
   <text x="36" y="95"  font-family="monospace" font-size="32" font-weight="700" fill="#ffffff" letter-spacing="-0.5">Rodrigo Chantel</text>
   <text x="38" y="122" font-family="monospace" font-size="14" fill="#7f77dd">▸ Full-Stack Developer</text>
   <text x="38" y="148" font-family="monospace" font-size="12" fill="#534AB7">PHP · Laravel · Vue.js · JavaScript · Tailwind</text>
-  <text x="38" y="174" font-family="monospace" font-size="11" fill="#888780" opacity="0.7">Sergipe, Brasil 🇧🇷</text>
+  <p x="38" y="174" font-family="monospace" font-size="11" fill="#888780" opacity="0.7">Sergipe, Brasil 🇧🇷</p>
 </svg>
 
 <br/><br/>
